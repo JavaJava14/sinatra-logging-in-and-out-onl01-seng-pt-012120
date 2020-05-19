@@ -1,5 +1,2 @@
-class User < ApplicationController
-  
-  
+class User < ActiveRecord::Base
 end
-
